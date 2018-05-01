@@ -1,0 +1,10 @@
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\bin\Debug\TCPSocketServer.exe.config
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\bin\Debug\TCPSocketServer.exe
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\bin\Debug\TCPSocketServer.pdb
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.Form1.resources
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.Properties.Resources.resources
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.csproj.GenerateResource.Cache
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.exe
+C:\Users\Evan Wilson\source\repos\TCPSocketServer\TCPSocketServer\obj\Debug\TCPSocketServer.pdb
